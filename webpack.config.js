@@ -3,7 +3,7 @@ const webpack = require('webpack');
 
 module.exports = {
     entry: [
-        './app/index.js'
+        './app/index_math.js'
     ],
     mode: 'development',
     devtool: 'inline-source-map',
